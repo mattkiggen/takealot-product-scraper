@@ -11,4 +11,4 @@ Simple Takealot product scraper written in TypeScript. Grabs image, title and pr
 
 `npm install`
 
-`npm run start "<your url here>"`
+`npm run start <your url here>`
